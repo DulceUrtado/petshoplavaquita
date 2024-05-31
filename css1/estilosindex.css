@@ -1,0 +1,13 @@
+body{
+    font-family: Verdana;
+    background:url('../imagenes/huellasperro.png');
+    background-repeat:repeat;
+}
+h1, p{
+    color:#000000;
+    text-align: center;
+}
+.negritas{
+    font-weight: bold;
+    font-size: 18px;
+}
